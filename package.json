@@ -470,5 +470,13 @@
         "icon": "FeiShu_A.png",
         "author": "InfinityPacer",
         "level": 2
+    },
+    "BrushFlowLowFreq": {
+    "name": "站点刷流（低频版）",
+    "description": "自动托管刷流，将会提高对应站点的访问频率。（基于官方插件BrushFlow二次开发）",
+    "version": "2.4.1",
+    "icon": "brush.jpg",
+    "author": "jxxghp,InfinityPacer",
+    "level": 2
     }
 }
